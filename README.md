@@ -1,4 +1,4 @@
 # hello-world
-my furst repository
+my first git to github repository
 
-Shastflame here, Bobs your uncle and the dog caught yer tongue.
+Tony here, Bobs your uncle and the dogs caught yer tongue.
